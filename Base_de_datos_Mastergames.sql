@@ -33,7 +33,7 @@ CREATE TABLE `carrito` (
 /*Data for the table `carrito` */
 
 insert  into `carrito`(`ID`,`IDVid`,`NombreV`,`Precio`,`Empresa`,`CompCorreo`) values 
-(24,18,'Uncharted4',1000,'Ps4','fajardosepulvedak@gmail.com');
+(24,18,'Uncharted4',1000,'Ps4','fajardok@gmail.com');
 
 /*Table structure for table `cuentas` */
 
@@ -56,10 +56,9 @@ CREATE TABLE `cuentas` (
 /*Data for the table `cuentas` */
 
 insert  into `cuentas`(`IdCuenta`,`Nombre`,`Apellido`,`Correo`,`Contrasena`,`Telefono`,`Direccion`,`CodigoPostal`,`FechaNac`,`Sexo`) values 
-(13,'Angel','Huerta','angelhuerta@gmail.com','soynegro1234','6677889900','Nose ',101010,'2006-07-12','Hombre'),
-(14,'Kevin','Fajardo Sepulveda','fajardosepulvedak@gmail.com','kyfs1234','6625816645','Cofre de perote 342',83116,'2006-12-07','Hombre'),
-(15,'Diego','Fajardo Sepulveda','fajardosepulvedadiego@gmail.com','dyfs1234','6677889900','Cofre de perote 342',83116,'2006-12-13','Hombre'),
-(16,'Ricardo','Fajardo Sepulveda','ernestoricardo@gmail.com','refs1234','6645871010','Cofre de perote 342',83116,'2012-03-04','Hombre');
+(13,'Angel','Huerta','ahuerta@gmail.com','negro1234','6767676767','Nose',101010,'2006-07-12','Hombre'),
+(14,'Kevin','Fajardo','fajardok@gmail.com','kyfs1234','6767676767','Por aya',500,'2006-12-07','Hombre'),
+(15,'Juan','Perez','juanperez@gmail.com','jp12jp34','6767676767','Por aya',500,'2006-12-13','Hombre');
 
 /*Table structure for table `productos` */
 
