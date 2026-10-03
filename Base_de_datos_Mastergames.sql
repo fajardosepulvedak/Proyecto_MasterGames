@@ -26,13 +26,13 @@ CREATE TABLE `carrito` (
   `NombreV` varchar(40) DEFAULT NULL,
   `Precio` float DEFAULT NULL,
   `Empresa` varchar(40) DEFAULT NULL,
-  `CompCorreo` varchar(45) DEFAULT NULL,
+  `CorreoComp` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`ID`)
 ) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=latin1;
 
 /*Data for the table `carrito` */
 
-insert  into `carrito`(`ID`,`IDVid`,`NombreV`,`Precio`,`Empresa`,`CompCorreo`) values 
+insert  into `carrito`(`ID`,`IDVid`,`NombreV`,`Precio`,`Empresa`,`CorreoComp`) values 
 (24,18,'Uncharted4',1000,'Ps4','fajardok@gmail.com');
 
 /*Table structure for table `cuentas` */
