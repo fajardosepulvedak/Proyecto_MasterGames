@@ -1,7 +1,7 @@
 # Proyecto MasterGames
 MasterGames es un proyecto de una página web de una tienda de videojuegos físicos. Este proyecto esta creado con HTML5, 
 PHP, JavaScript y utiliza una conexión a una base de datos MySQL.
-Todo el proyecto está diseñado para ejecutarse mediante localhost con el usuario "root" el cual no tiene contraseña.
+Todo el proyecto está diseñado para ejecutarse mediante localhost con el usuario "root" el cual no tiene contraseña para la base de datos "mastergames".
 
 ## Contenido
 La página está construida de la siguiente manera:
